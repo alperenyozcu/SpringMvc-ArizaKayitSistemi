@@ -11,6 +11,6 @@
 ## Proje Intellij Ultimate üzerinden clone edildikten sonra
 #### - Projenin ayağa kaldırılabilmesi için Run Configuration ayarları Tomcat'e göre düzenlenmelidir
 
-##Arıza Kayıt Sistemi Hakkında 
+## Arıza Kayıt Sistemi Hakkında 
 #### -Kullanıcıların oluşturduğu arıza kayıtları admin tarafından belirlenen personeller tarafından ilgili arıza kaydının altında personel ve kullanıcıların oluşturduğu yorumlardan çözüme kavuşturulması beklenir. 
 
