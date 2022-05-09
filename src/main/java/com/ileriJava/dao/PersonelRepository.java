@@ -13,10 +13,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * @author furkancelik
- **/
-
 @Repository
 public class PersonelRepository {
 

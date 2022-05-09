@@ -8,9 +8,6 @@ import org.hibernate.annotations.OnDeleteAction;
 import javax.persistence.*;
 import java.io.Serializable;
 
-/**
- * @author furkancelik
- **/
 
 @Entity
 @Table(name = "CATEGORY")

@@ -5,9 +5,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.lang.reflect.Method;
 import java.util.Enumeration;
 
-/**
- * @author furkancelik
- **/
+
 public class RequestLogger {
 
     private HttpServletRequest request;

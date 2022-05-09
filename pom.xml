@@ -22,6 +22,15 @@
         <role>Developer</role>
       </roles>
     </developer>
+    <developer>
+      <id>alperenyozcu</id>
+      <name>Alperen Yozcu</name>
+      <email>alperenyozcu@hotmail.com</email>
+      <organization>Duzce University</organization>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
   </developers>
 
   <properties>
